@@ -1,7 +1,7 @@
 # Hi there, we are Horbit! 👋🇵🇹
 
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=Horbit+Logo" width="150" alt="Horbit Logo"/>
+  <img src="https://www.horbit.pt/assets/logo-CpY2WY_o.png" width="150" alt="Horbit Logo"/>
   <br/>
   
   **Premium Hosting Solutions from Portugal.**
