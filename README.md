@@ -11,8 +11,8 @@
   <br/>
   
   [![Website](https://img.shields.io/badge/Website-horbit.pt-blue?style=for-the-badge&logo=google-chrome)](https://horbit.pt)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/SEU_LINK_AQUI)
-  [![Status](https://img.shields.io/badge/Status-All%20Systems%20Operational-success?style=for-the-badge)](https://status.horbit.pt)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.com/invite/EBucYpR4Fw)
+# [![Status](https://img.shields.io/badge/Status-All%20Systems%20Operational-success?style=for-the-badge)](https://status.horbit.pt)
 </div>
 
 ---
@@ -28,8 +28,8 @@ We are a specialized hosting provider focused on delivering high-performance inf
 
 ### 🤝 Support
 Need help with your VPS or Game Server?
-* 🎫 Open a ticket on our [Client Area](https://horbit.pt/cliente)
-* 💬 Join our [Discord Community](https://discord.gg/SEU_LINK_AQUI)
+* 🎫 Open a ticket on our [Client Area](https://www.horbit.pt/login)
+* 💬 Join our [Discord Community](https://discord.com/invite/EBucYpR4Fw)
 
 ---
 <div align="center">
